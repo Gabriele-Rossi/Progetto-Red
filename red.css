@@ -136,6 +136,7 @@ transform: translateX(-50%);
     padding-bottom: 1%;
     margin: 0px auto;
     display: block;
+    border: 0px solid var(--colorprimary);
     
 }
 .trees2custom{
